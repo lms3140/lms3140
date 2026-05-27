@@ -2,8 +2,7 @@
 
 📧 lms314044s2@gmail.com
 
-React와 TypeScript를 기반으로  
-인증 흐름, 상태 관리, 에러 처리 구조를 구현해온 프론트엔드 개발자입니다.
+React와 TypeScript를 기반으로 유저 친화적인 UI 를 구현하려 노력하고 있습니다.
 
 ## Tech Stack
 
